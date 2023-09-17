@@ -1,0 +1,36 @@
+/* .music{
+ margin-left: 500px;
+ margin-top: 350px;   
+} */
+.fon{
+    background-color: rgb(140, 85, 228);
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+.img{
+  margin-left: 37px;
+}
+.name{
+   font-size: 12px;    
+    
+}
+.div0{
+    border: 3px solid black;
+    width: 300px;
+    height: 400px;
+}
+
+.block{
+    border: 5px solid;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.block1{
+    border: 5px solid;
+    width: 200px;
+    height: 200px;
+}
